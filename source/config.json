@@ -1,0 +1,9 @@
+{
+    "useDefaults" : true,
+    "config" : {
+        "importCustomFonts" : true,
+        "checkTweetsOnStart" : true,
+        "startupBackground" : -1,
+        "maxToolSize" : 100
+    }
+}
